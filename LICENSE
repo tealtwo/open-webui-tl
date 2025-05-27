@@ -1,33 +1,46 @@
-Copyright (c) 2023-2025 Timothy Jaeryang Baek (Open WebUI)
-All rights reserved.
+Teal Lvbs Software License Agreement
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+This Software License Agreement ("Agreement") is entered into as of the date of download, installation, or use (whichever occurs first) by and between the Licensor ("Licensor") and the Licensee ("Licensee").
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. Grant of License
+The Licensor grants the Licensee a non-exclusive, non-transferable, non-sublicensable, and revocable license to use the software program ("Software") solely for personal or internal business purposes, subject to the terms and conditions set forth in this Agreement.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+2. Restrictions
+(a) The Licensee shall not, without the prior written consent of the Licensor:
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+    Use, copy, modify, or create derivative works of the Software;
+    Distribute, sell, lease, lend, or sublicense the Software to any third party;
+    Share, publish, or otherwise make the Software available to the public, whether in whole or in part;
+    Reverse engineer, decompile, or disassemble the Software, except to the extent permitted by applicable law notwithstanding this limitation.
 
-4. Notwithstanding any other provision of this License, and as a material condition of the rights granted herein, licensees are strictly prohibited from altering, removing, obscuring, or replacing any "Open WebUI" branding, including but not limited to the name, logo, or any visual, textual, or symbolic identifiers that distinguish the software and its interfaces, in any deployment or distribution, regardless of the number of users, except as explicitly set forth in Clauses 5 and 6 below.
+(b) Any unauthorized use of the Software will result in the immediate termination of this Agreement and may subject the Licensee to legal action.
 
-5. The branding restriction enumerated in Clause 4 shall not apply in the following limited circumstances: (i) deployments or distributions where the total number of end users (defined as individual natural persons with direct access to the application) does not exceed fifty (50) within any rolling thirty (30) day period; (ii) cases in which the licensee is an official contributor to the codebase—with a substantive code change successfully merged into the main branch of the official codebase maintained by the copyright holder—who has obtained specific prior written permission for branding adjustment from the copyright holder; or (iii) where the licensee has obtained a duly executed enterprise license expressly permitting such modification. For all other cases, any removal or alteration of the "Open WebUI" branding shall constitute a material breach of license.
+3. Intellectual Property
+The Software and all copies thereof are the exclusive property of the Licensor. All intellectual property rights in and to the Software are and shall remain the sole and exclusive property of the Licensor.
 
-6. All code, modifications, or derivative works incorporated into this project prior to the incorporation of this branding clause remain licensed under the BSD 3-Clause License, and prior contributors retain all BSD-3 rights therein; if any such contributor requests the removal of their BSD-3-licensed code, the copyright holder will do so, and any replacement code will be licensed under the project's primary license then in effect. By contributing after this clause's adoption, you agree to the project's Contributor License Agreement (CLA) and to these updated terms for all new contributions.
+4. Termination
+The Licensor may terminate this Agreement immediately upon written notice to the Licensee if the Licensee breaches any term or condition of this Agreement. Upon termination, the Licensee must immediately cease all use of the Software and destroy all copies in its possession or control.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+5. Legal Actions and Compensation
+If the Licensee is found to be in breach of this Agreement, the Licensee agrees to pay the Licensor any and all damages, costs, and expenses (including reasonable attorney’s fees) incurred by the Licensor as a result of such breach. The Licensor reserves the right to seek injunctive relief and any other remedies available under applicable law.
+
+6. Disclaimer of Warranties
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. The Licensor does not warrant that the Software will be error-free or operate without interruption.
+
+7. Limitation of Liability
+In no event shall the Licensor be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, incurred by the Licensee or any third party, whether in an action in contract or tort, arising from the use of the Software.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of Illinois, without regard to its conflict of laws principles. Any legal action or proceeding arising under this Agreement shall be brought exclusively in the courts located in Chicago, Illinois.
+
+9. Entire Agreement
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, agreements, and representations, whether oral or written.
+
+10. Amendments
+No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+By using the Software, the Licensee acknowledges that they have read, understood, and agreed to be bound by the terms and conditions of this Agreement.
+Teal, or any other author on this repository is not responsible for your actions. 
+Copyright Teal Lvbs LLC
